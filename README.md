@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div style="display: inline_block; background-color: white;">
     <img align="center" height="170em" style="background-color: white;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDgOR&layout=compact&langs_count=16&theme=dracula" />
-    <!--<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=LuizDgOR&theme=dracula&_icons=true" />-->
 </div>
 
 
