@@ -1,9 +1,10 @@
 ### Hi there 👋
 <div style="display: inline_block">
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDgOR&layout=compact&langs_count=16&theme=dracula" />
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizDgOR&theme=dracula&_icons=true" />
 </div>
+
+
 <!--**LuizDgOR/LuizDgOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
