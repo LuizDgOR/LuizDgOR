@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Linguagens mais usadas](meus-gráficos/gráfico.png)
 
 <!--**LuizDgOR/LuizDgOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
