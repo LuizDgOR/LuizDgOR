@@ -1,10 +1,8 @@
-### Hi there 👋  
+### Olá 👋  
 
 💻 Estudante de **Sistemas de Informação** e **Desenvolvedor Web**. Atualmente, estou focado em projetos com **Laravel**.
 
----
 
-### Stack:
 Aqui estão algumas das tecnologias que utilizo:
 
 #### 🖥️ Back-end:
@@ -31,8 +29,6 @@ Aqui estão algumas das tecnologias que utilizo:
 #### 🎯 Versionamento:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-
----
 
 ### 📊:
 <p align="center">
