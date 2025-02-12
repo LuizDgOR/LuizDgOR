@@ -1,11 +1,6 @@
-### Hi there 👋
-<div style="display: inline_block;">
-    <img align="center" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDgOR&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 ### Hi there 👋  
 
-💻 Estudante de **Sistemas de Informação** e **Desenvolvedor Web** apaixonado por tecnologia! Atualmente, estou focado em projetos com **Django**, **React** e **Laravel**, além de explorar o mundo dos **containers com Docker**.
+💻 Estudante de **Sistemas de Informação** e **Desenvolvedor Web**. Atualmente, estou focado em projetos com **Laravel**.
 
 ---
 
@@ -17,9 +12,11 @@ Aqui estão algumas das tecnologias que utilizo:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 
 #### 🌐 Front-end:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
 
 #### 🛠️ DevOps:
@@ -32,24 +29,24 @@ Aqui estão algumas das tecnologias que utilizo:
 
 ---
 
-### 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap;">
+### 📊:
+<p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizDgOR&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDgOR&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDgOR&layout=compact&langs_count=10&theme=dracula"/>
+</p>
 
 ---
 
-### 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=LuizDgOR&theme=dracula&column=4)
+### 🏆:
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=LuizDgOR&theme=dracula&no-frame=true&column=5"/>
+</p>
 
 ---
 
 ### 🔗 Como me encontrar:
-📌 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-📌 **Email:** [seuemail@email.com](mailto:seuemail@email.com)  
-📌 **Portfólio:** [Em breve 🚀]  
+📌 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/luiz-diego-reis-98aa9526b/)  
+📌 **Portfólio:** [Em breve ]  
 
 ---
 
-✨ Sempre aprendendo e buscando novos desafios! Vamos conectar? 😃🚀
