@@ -47,7 +47,7 @@ Aqui estão algumas das tecnologias que utilizo:
 
 ### 🔗 Como me encontrar:
 📌 **LinkedIn:** https://www.linkedin.com/in/luiz-diego-reis-98aa9526b/
-📌 **Portfólio:** [Em breve ]  
+<!--📌 **Portfólio:**-->
 
 ---
 
